@@ -154,6 +154,20 @@
       <Version>6.2.13</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libs\VSmicro.Datatypes\VSmicro.Datatypes.csproj">
+      <Project>{cacac009-635e-4454-8127-6054dbb5d902}</Project>
+      <Name>VSmicro.Datatypes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libs\VSmicro.FileIO\VSmicro.FileIO.csproj">
+      <Project>{161c0f22-4039-4e87-84dc-c407605a333c}</Project>
+      <Name>VSmicro.FileIO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libs\VSmicro.Processes\VSmicro.Processes.csproj">
+      <Project>{2aff2d0b-687c-49e0-b62f-cb285e49be53}</Project>
+      <Name>VSmicro.Processes</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
