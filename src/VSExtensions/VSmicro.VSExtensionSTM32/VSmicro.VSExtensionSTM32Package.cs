@@ -24,8 +24,8 @@ namespace VSmicro.VSExtensionSTM32
     /// </para>
     /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [Guid(VSmicro.VSExtensionSTM32Package.PackageGuidString)]
-    public sealed class VSmicro.VSExtensionSTM32Package : AsyncPackage
+    [Guid(VSmicroVSExtensionSTM32Package.PackageGuidString)]
+    public sealed class VSmicroVSExtensionSTM32Package : AsyncPackage
     {
          /// <summary>
         /// VSmicro.VSExtensionSTM32Package GUID string.
