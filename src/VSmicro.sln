@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSmicro.FileIO", "Libs\VSmi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSmicro.Console", "Tools\VSmicro.Console\VSmicro.Console.csproj", "{FEAAC8C0-F269-4C20-A93A-C45BDDA060D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSmicro.Processes", "Libs\VSmicro.Processes\VSmicro.Processes.csproj", "{2AFF2D0B-687C-49E0-B62F-CB285E49BE53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FEAAC8C0-F269-4C20-A93A-C45BDDA060D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEAAC8C0-F269-4C20-A93A-C45BDDA060D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEAAC8C0-F269-4C20-A93A-C45BDDA060D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFF2D0B-687C-49E0-B62F-CB285E49BE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFF2D0B-687C-49E0-B62F-CB285E49BE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFF2D0B-687C-49E0-B62F-CB285E49BE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFF2D0B-687C-49E0-B62F-CB285E49BE53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{CACAC009-635E-4454-8127-6054DBB5D902} = {9D4D45C7-05DE-4DD0-8E47-DD6BCEAFDCA7}
 		{161C0F22-4039-4E87-84DC-C407605A333C} = {9D4D45C7-05DE-4DD0-8E47-DD6BCEAFDCA7}
 		{FEAAC8C0-F269-4C20-A93A-C45BDDA060D8} = {03D953CC-63A4-4C08-86CE-B69560F6B376}
+		{2AFF2D0B-687C-49E0-B62F-CB285E49BE53} = {9D4D45C7-05DE-4DD0-8E47-DD6BCEAFDCA7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8399E76F-596B-4E0E-8834-11A225A322AB}
