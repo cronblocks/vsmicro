@@ -1,5 +1,8 @@
-﻿namespace VSmicro.Datatypes.Devices
+﻿using System;
+
+namespace VSmicro.Datatypes.Devices
 {
+    [Flags]
     public enum DeviceManufacturer
     {
         NONE,
