@@ -4,7 +4,7 @@ using System.Text;
 
 namespace VSmicro.Processes.CommandsProcessing
 {
-    public class CommandsParser
+    public class CommandParser
     {
     }
 }
