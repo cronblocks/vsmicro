@@ -2,8 +2,7 @@
 {
     public enum DeviceManufacturer
     {
-        None,
-
+        NONE,
         Cypress,               // California, USA
         Infineon,              // Neubiberg, Germany - by Siemens AG
         Microchip,             // Chandler, USA - in 2016, Microchip acquired Atmel (AVR and ARM microcontrollers)
