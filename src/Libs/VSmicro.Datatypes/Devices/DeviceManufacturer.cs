@@ -9,6 +9,6 @@
         Renesas,               // Tokyo, Japan
         SiliconLabs,           // Austin, Texas, USA - EFM32™ ARM® Cortex® 32-bit and EFM8™ 8051-based 8-bit
         STMicroelectronics,
-        TexasInstruments,
+        TexasInstruments,      // Dallas, Texas, USA
     }
 }
