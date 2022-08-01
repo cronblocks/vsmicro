@@ -3,6 +3,7 @@
     public enum DeviceManufacturer
     {
         None,
+        NXP,
         STMicroelectronics
     }
 }
