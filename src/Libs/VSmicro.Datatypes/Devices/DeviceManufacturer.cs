@@ -3,7 +3,7 @@
     public enum DeviceManufacturer
     {
         None,
-        NXP,
+        NXP,                   // Eindhoven, Netherlands - merged with Freescale Semiconductor
         Renesas,
         STMicroelectronics
     }
