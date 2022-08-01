@@ -4,7 +4,7 @@
     {
         None,
         NXP,                   // Eindhoven, Netherlands - merged with Freescale Semiconductor
-        Renesas,
+        Renesas,               // Tokyo, Japan
         STMicroelectronics
     }
 }
