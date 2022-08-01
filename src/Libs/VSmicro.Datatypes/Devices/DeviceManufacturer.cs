@@ -4,6 +4,7 @@
     {
         None,
         NXP,
+        Renesas,
         STMicroelectronics
     }
 }
