@@ -3,7 +3,7 @@
     public enum DeviceManufacturer
     {
         None,
-        Infineon,
+        Infineon,              // by Siemens AG
         Microchip,             // Chandler, USA - in 2016, Microchip acquired Atmel (AVR and ARM microcontrollers)
         NXP,                   // Eindhoven, Netherlands - merged with Freescale Semiconductor
         Renesas,               // Tokyo, Japan
