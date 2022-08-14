@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("VSmicro");
-            Console.WriteLine("=======");
+            Console.WriteLine("VSmicro Command-line Utility");
+            Console.WriteLine("============================");
 
             //--
 
