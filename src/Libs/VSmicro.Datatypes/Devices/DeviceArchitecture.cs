@@ -4,7 +4,7 @@ using System.Text;
 
 namespace VSmicro.Datatypes.Devices
 {
-    internal class Architecture
+    internal class DeviceArchitecture
     {
     }
 }
