@@ -8,5 +8,6 @@ namespace VSmicro.Datatypes.Devices
     {
         ARM = 1,
         AVR = 2,
+        PIC = 3,
     }
 }
