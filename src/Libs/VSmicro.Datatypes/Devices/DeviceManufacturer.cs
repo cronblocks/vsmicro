@@ -5,7 +5,7 @@ namespace VSmicro.Datatypes.Devices
     [Flags]
     public enum DeviceManufacturer
     {
-        NONE = 0,
+        Unknown = 0,
         Cypress = 1,                // California, USA
         Infineon = 2,               // Neubiberg, Germany - by Siemens AG
         Microchip = 4,              // Chandler, USA - in 2016, Microchip acquired Atmel (AVR and ARM microcontrollers)
