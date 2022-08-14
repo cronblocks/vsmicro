@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AssemblyName>$(MSBuildProjectName.Replace(".Console", ""))</AssemblyName>
+    <RootNamespace>$(MSBuildProjectName.Replace(" ", "_"))Application</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
