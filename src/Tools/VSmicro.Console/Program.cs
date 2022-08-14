@@ -1,6 +1,6 @@
 ﻿namespace VSmicro.ConsoleApplication
 {
-    class MyApplication
+    class ConsoleApplication
     {
         public static void Main(string[] args)
         {
