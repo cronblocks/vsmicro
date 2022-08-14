@@ -1,4 +1,4 @@
-﻿namespace VSmicro.Datatypes.Devices
+﻿namespace VSmicro.Datatypes.Device
 {
     public enum DeviceArchitecture
     {

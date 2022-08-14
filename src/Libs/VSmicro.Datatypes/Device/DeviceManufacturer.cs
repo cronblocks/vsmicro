@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VSmicro.Datatypes.Devices
+namespace VSmicro.Datatypes.Device
 {
     [Flags]
     public enum DeviceManufacturer
